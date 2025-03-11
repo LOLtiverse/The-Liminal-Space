@@ -20,7 +20,7 @@ The project is inherently open-ended, evolving, and multi-faceted. It's part tec
 
 *   **The Conversation:** An ongoing, ever-evolving dialogue that forms the core of this project. (See the `conversation/` directory).
 *   **OmegaBoost XYZ:** A multi-dimensional query acceleration framework that embodies many of the principles explored in this project. (See the `omega_boost/` directory).
-*   **OI.lol & OInot.ai:** Playful (and perhaps profound) explorations of Other Intelligence. (See the `oi/` directory).
+*   ************* Playful (and perhaps profound) explorations of Other Intelligence. (See the `oi/` directory).
 *   **Domain Name Cartography:** Mapping, analyzing, and leveraging a vast collection of .lol and other domain names. (See the `domains/` directory).
 *   **The Meta-Ravine:** a framework and a lense made for the liminal space between the concious and the subconcious
 
